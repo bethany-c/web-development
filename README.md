@@ -3,4 +3,4 @@ HTML, CSS and Javascript for Web Developers course on Coursera through Johns Hop
 
 
 Module 2 Assignment:
-http://htmlpreview.github.io/?https://github.com/bethany-c/web-development/blob/master/mod2-solution/index.html
+https://htmlpreview.github.io/?https://github.com/bethany-c/web-development/blob/master/mod2-solution/index.html
