@@ -14,8 +14,8 @@ h1 {
 h2 {
     float: right;
     color: black;
-    border-left: 3px solid black;
-    border-bottom: 3px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     padding: 5px 15px 5px 15px;
     margin-top:0px;
     margin-bottom:15px;
@@ -26,7 +26,7 @@ section {
     background-color: azure;
     overflow: auto;
     height: auto;
-    border: 3px solid black;
+    border: 1px solid black;
     margin: 20px;
 
 }
