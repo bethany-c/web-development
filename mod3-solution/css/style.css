@@ -2,74 +2,108 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: bisque ;
 }
 
-h1 {
+.title {
     text-align: center;
-    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:45px;
+    color:mediumslateblue;
 }
 
-h2 {
-    float: right;
-    color: black;
-    border-left: 1px solid black;
-    border-bottom: 1px solid black;
-    padding: 5px 15px 5px 15px;
-    margin-top:0px;
-    margin-bottom:15px;
-    font-family: sans-serif;
+li{
+    box-sizing: border-box;
 }
 
-section {
-    background-color: azure;
-    overflow: auto;
-    height: auto;
-    border: 1px solid black;
-    margin: 20px;
-
+.row {
+    margin:15px;
 }
 
-p {
-    margin-top: 25px;
-    margin-left: 10px;
-    margin-right: 10px
-    padding = 5px;
-}
-
-.chicken {
-    background-color: rgb(221, 162, 211);
-}
-
-.beef {
-    background-color: rgb(245, 78, 78);
-}
-
-.sushi {
-    background-color: rgb(238, 162, 69);
-}
-
-
-
-.description {
-    text-align: center;
-    background-color: azure;
-    color: black;
-    overflow: none;
-    border: 5px black;
-    padding: 5px 10px 5px 10px;
+.nav-item {
+    background-color: whitesmoke;
+    color:black;
+    border: 1px black;
+    display: block;
+    padding:0;
+    width: 100%;
+    margin: 0;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-item:hover {
+    background-color:aliceblue;
+    color: dodgerblue;
+}
+
+.nav{
+    margin:0px;
+    padding:0px;
+}
+.navbar{
+    border-radius: 0px;
+    background-color:lightgrey;
+}
+
+.navbar-header{
+    border: 1px black
+}
+
+.navbar-brand{
+    font-size: 40px;
+    color:dimgray;
+    padding-left: 20px;
+}
+
+.navbar-brand:hover{
+    color: dodgerblue;
+}
+
+.navbar-nav{
+    font-size: 20px;
+    margin:0;
+    text-align:center;
+}
+
+.icon-bar{
+    background-color: whitesmoke;
+}
+
+.navbar-toggle{
+    margin-right: 15px;
+    border: 2px whitesmoke;
+}
+
+
+.container-fluid {
+    margin:0;
+    padding:0;
+}
+
+.menu-item{
+    padding:10px;
+    margin:10px;
+    width: auto;
+    height:auto;
+    overflow:none;
+    color:black;
+    background-color:lavender;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.food-name{
+    text-align:center;
+    padding-top:5px;
+    font-size:30px;
 }
 
 .nav-item{
     text-align: center;
 }
 
-.main-heading{
-    text-align: center;
-}
 
   /********** Desktop View only **********/
 @media (min-width: 992px) {.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
