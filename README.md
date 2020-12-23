@@ -7,3 +7,6 @@ Module 2 Assignment:
 
 Module 3 Assignment:
 * [Output](https://bethany-c.github.io/web-development/mod3-solution/)
+
+Module 4 Assignment:
+* [Output](https://bethany-c.github.io/web-development/mod4-solution/)
