@@ -1,6 +1,9 @@
 # web-development
 HTML, CSS and Javascript for Web Developers course on Coursera through Johns Hopkins University
 
+![Certificate](https://github.com/bethany-c/web-development/Certificate)
+
+
 
 Module 2 Assignment:
 * Outcome: Create a responsive page for desktop, tablet, and mobile views.
