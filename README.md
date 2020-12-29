@@ -15,5 +15,5 @@ Outcome: Using JavaScript, take an existing array of names and output either Hel
 * [Output](https://bethany-c.github.io/web-development/mod4-solution/)
 
 Module 5 Assignment:
-Outcome: Using the front page of the existing restaurant page, modify the JavaScript file to bring the user to a different page of specials every time the specials category is clicked. 
+<br>Outcome: Using the front page of the existing restaurant page, modify the JavaScript file to bring the user to a different page of specials every time the specials category is clicked. 
 * [Output](https://bethany-c.github.io/web-development/mod5-solution/)
